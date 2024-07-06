@@ -41,7 +41,7 @@ input[type="submit"] {
   width: 200px;
   cursor: pointer;
   padding: 25px 10px;
-  transition: ease-in-out;
+  transition: 0.3s;
 }
 
 input[type="submit"]:hover {
