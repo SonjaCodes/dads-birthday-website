@@ -15,7 +15,7 @@ body {
 }
 
 img {
-  max-width: 350px;
+  max-width: 300px;
 }
 
 .wrapper {
@@ -38,7 +38,7 @@ input[type="submit"] {
   box-shadow: var(--box-shadow);
   text-align: center;
   margin: 30px 10px;
-  width: 200px;
+  width: 180px;
   cursor: pointer;
   padding: 25px 10px;
   transition: 0.3s;
